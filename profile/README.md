@@ -5,4 +5,5 @@
 > **윤석규**
 > 
 > - 노션링크: https://seokgyu.notion.site/Activity-Fragment-4b61df7a513943218c7334fa71411d74
+> - 수업자료: https://github.com/Android-Study-7th/seokgyu-lifecycle-example
 
