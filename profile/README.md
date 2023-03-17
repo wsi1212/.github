@@ -1,12 +1,8 @@
-## Hi there 👋
+# 🏫 대구소프트웨어마이스터고 7기 안드로이드 스터디 🤖
 
-<!--
+### 첫 번째 스터디 (2023-03-17)
 
-**Here are some ideas to get you started:**
+> **윤석규**
+> 
+> - 노션링크: https://seokgyu.notion.site/Activity-Fragment-4b61df7a513943218c7334fa71411d74
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
